@@ -1,0 +1,8 @@
+{
+    "plugins": [
+      {
+          "name": "goctl-go-compact",
+          "src": "https://github.com/zeromicro/goctl-go-compact.git"
+      }
+    ]
+}
